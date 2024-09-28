@@ -1,0 +1,14 @@
+﻿Solução dissertativa
+
+
+1. Entrada - ler e armazenar o numero N que será multiplicado por 9;
+2. Processamento -subtrair N-1 e armazenar com primeiro dígito N1;
+3. Processamento -subtrair 10-N e armazenar com segundo dígito N2;
+4. Processamento -Realize a expressão (N1 x10) +N2 e armazene como resultado final R;
+5. Saída - Apresente R  (resultado final) e encerre o programa.
+
+
+
+
+9x3=3-1.10-3;
+9x3=2x10+7.
